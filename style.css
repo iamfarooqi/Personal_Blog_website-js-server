@@ -9,22 +9,22 @@ body {
     margin-left: 10%;
     width: 80%;
     background-color: white;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     box-shadow: 4px 5px 6px black;
 }
 
 .info {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 90%;
     margin: 3%;
 }
 
 .image{
-    border: 2px solid violet;
+    /* border: 2px solid violet; */
 }
 
 .p-info{
-border: 1px solid red;
+/* border: 1px solid red; */
 /* width: 50%; */
 
 }
@@ -36,10 +36,11 @@ border: 1px solid red;
     text-align: center;
 }
 .navbar {
-    border: red solid 1px;
+    /* border: red solid 1px; */
     width: 90%;
     /* text-align: center; */
     margin: 3%;
+
     
 }
 
@@ -82,7 +83,7 @@ form{
 
 .login-body{
     width: 50%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     text-align: center;
     margin-left: 20%;
 }
